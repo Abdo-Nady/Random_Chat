@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348850748561",
+    "project_id": "random-chat-5ebcf",
+    "storage_bucket": "random-chat-5ebcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348850748561:android:f3e59b8c294bcfcbe19330",
+        "android_client_info": {
+          "package_name": "com.example.random_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZLW4R2nWxVCcdOTtf1S23uMHYMd_e-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348850748561:android:7e12d4656be209e5e19330",
+        "android_client_info": {
+          "package_name": "com.nady.randomchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZLW4R2nWxVCcdOTtf1S23uMHYMd_e-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
